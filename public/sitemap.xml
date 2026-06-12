@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Halaman Utama -->
+  <url>
+    <loc>https://mesenae.web.app/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Halaman Kisah Kami -->
+  <url>
+    <loc>https://mesenae.web.app/kisahkami</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Halaman Syarat & Ketentuan -->
+  <url>
+    <loc>https://mesenae.web.app/syaratketentuan</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <!-- Halaman Kebijakan Privasi -->
+  <url>
+    <loc>https://mesenae.web.app/kebijakanprivasi</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
